@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "krunner-services-freq contributors"
+            }
+        ],
+        "Description": "Find applications, control panels and services, ranked by how often you launch them",
+        "EnabledByDefault": true,
+        "Icon": "applications-other",
+        "License": "LGPL-2.0-only",
+        "Name": "Applications (freq)"
+    },
+    "X-Plasma-Runner-Unique-Results": true
+}

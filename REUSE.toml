@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "krunner-services-freq"
+SPDX-PackageSupplier = "krunner-services-freq contributors"
+SPDX-PackageDownloadLocation = "https://github.com/crabiosa/krunner-services-freq"
+
+[[annotations]]
+path = ["README.md", "LICENSE", "LICENSES/**", ".gitignore"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 krunner-services-freq contributors"
+SPDX-License-Identifier = "LGPL-2.0-only"
