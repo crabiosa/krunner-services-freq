@@ -1,7 +1,7 @@
 # krunner-services-freq
 
-A KRunner runner for Plasma 6 that ranks applications by how often you launch
-them.
+A KRunner runner (a Plasma Search plugin) for Plasma 6 that ranks applications
+by how often you launch them.
 
 It replaces the stock applications runner. Search works the same way, but the
 results you actually use move up: after a few launches, `kon` offers Konsole
